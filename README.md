@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/214530055.svg)](https://zenodo.org/badge/latestdoi/214530055)
+
 # CMIP6 Hackathon Project Template
 
 [This template](https://github.com/cmip6hack/project-template) provides a starting point for [CMIP6 Hackathon](https://cmip6hack.github.io/#/) projects.
@@ -25,3 +27,9 @@ Once the initial setup is done, everyone will want to clone the repository onto 
 1. Open a terminal in the JupyterLab environment.
 1. Clone your project: `git clone https://github.com/username/your-project.git`
 1. Get to work!
+
+
+### Citing this Project
+We would like for you to use the work represented in this project.  Please cite it using the following citation:
+
+> Keith E. Maull. (2019, October 11). Project-template (Version v0.1.0). Zenodo. http://doi.org/10.5281/zenodo.3483198
